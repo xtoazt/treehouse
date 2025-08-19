@@ -42,7 +42,7 @@ A stunning, modern family tree website that allows families to discover, connect
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/treehouse.git
+   git clone https://github.com/xtoazt/treehouse.git
    cd treehouse
    ```
 
@@ -237,7 +237,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help, please:
 - Open an issue on GitHub
-- Contact us at support@treehouse.com
+- Contact us at my other website, realtalk
 - Check our documentation at docs.treehouse.com
 
 ---
