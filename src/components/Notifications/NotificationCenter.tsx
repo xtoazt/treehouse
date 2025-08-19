@@ -16,8 +16,7 @@ import {
   Settings,
   Filter,
   MoreHorizontal,
-  Trash2,
-  MarkAsUnread
+  Trash2
 } from 'lucide-react';
 import { Notification } from '../../types';
 import { formatDistanceToNow } from 'date-fns';

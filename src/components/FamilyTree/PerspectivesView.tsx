@@ -197,7 +197,7 @@ const PerspectivesView: React.FC = () => {
           >
             <option value="all">All Relationships</option>
             <option value="close">Close Family (≤2 steps)</option>
-            <option value="distant">Distant Family (>2 steps)</option>
+            <option value="distant">Distant Family (&gt;2 steps)</option>
           </select>
 
           {/* Actions */}
